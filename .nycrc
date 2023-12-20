@@ -4,7 +4,6 @@
   "check-coverage": true,
   "extension": [ ".js" ],
   "include": [ "dist/**/*.js" ],
-  "exclude": [ "dist/index.js", "dist/_virtual/**/*.js", "dist/esm/**/*.js" ],
   "branches": 50,
   "lines": 50,
   "functions": 50,
